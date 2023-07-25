@@ -1,6 +1,6 @@
 1.安裝VS code
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab917282-90ae-40f5-a9cd-70216febc0e1/Untitled.png)
+![Untitled](file:///C:/Users/User/Documents/ShareX/Screenshots/2023-07/chrome_N4BX2i9alR.png)
 
 [Visual Studio Code ( VS Code) 安裝教學(使用Python) - 免費資源社群](https://www.citerp.com.tw/citwp2/2021/12/22/vs-code_python_01/)
 
