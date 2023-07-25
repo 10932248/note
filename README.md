@@ -19,4 +19,6 @@
 5.檢視-命令選擇區-啟用jupyter讓他跟colab一樣
 ![Untitled](https://i.imgur.com/SVtghh9.png)
 
-6.安裝ShareX 
+# 6.安裝ShareX
+截圖上傳
+https://kkplay3c.net/sharex/
